@@ -102,7 +102,7 @@
     background-color: #ffffff; 
  clip-path: polygon(0% 0, 100% 0, 75% 50%, 100% 100%, 70% 100%, 30% 100%, 0 100%, 0 51%);
     z-index: 1;  
-  background-image: url(/edit/main/assats/img/water.avif);  
+  background-image: url(edit/main/assats/img/water.avif);  
 }
 
 

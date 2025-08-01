@@ -80,9 +80,6 @@
 
 }
 
-
-
-
 /* 1st */
 
 .jit_hero-section {
@@ -90,8 +87,7 @@
     justify-content: center;
     align-items: center;
     min-height:90vh; 
-     background-color: rgb(225 225 225);
-    
+    background-color: rgb(225 225 225);
     position: relative;
     overflow: hidden; 
 }
@@ -106,7 +102,7 @@
     background-color: #ffffff; 
  clip-path: polygon(0% 0, 100% 0, 75% 50%, 100% 100%, 70% 100%, 30% 100%, 0 100%, 0 51%);
     z-index: 1;  
-  background-image: url(assats/img/water.avif);  
+  background-image: url(../assats/img/water.avif);  
 }
 
 
@@ -339,7 +335,7 @@ h1 {
     width:100%;
     justify-content: center;
     align-items: center;
-    background: url(assats/img/water.avif);
+    background: url(../assats/img/water.avif);
     
 }
 .jit_left_main{
